@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi I'm James, and I'm currently studying software engineering at UQ, I'm currently in my final year and I’m super passionate and obsessed with all things tech, innovation, and entrepreneurship. <br><br>My journey into software engineering began with a profound interest in the potential of technology to reshape our world. Today, I stand before you as someone who believes in the transformative power of software, and I’m always curious about how I can use tech to make our lives better.
 
-I'm currently working on a startup called Fortus - a platform aimed at cultivating motivation and self-commitment amongst young adults and their gym goals! I love to keep up with upcoming tech / financial news especially revolving around ML / AI / Investment markets
+I'm currently working on a startup called Fortus - a platform aimed at cultivating motivation and self-commitment amongst young adults and their gym goals! I love to keep up with upcoming tech / financial news especially anything revolving around ML / AI / Investment markets
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jamesletien) 
